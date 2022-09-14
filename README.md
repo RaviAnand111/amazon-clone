@@ -1,4 +1,4 @@
-##React Project
+# React Project
 
 ## Amazon FrontEnd Clone made with `React TailwindCSS`
 
